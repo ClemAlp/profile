@@ -25,6 +25,11 @@ ul {
   padding-left: 0px;
 }
 
+i {
+  font-size: 18px;
+  padding: 0px 4px;
+}
+
 .btn {
   text-decoration: none;
   background-color: white;
